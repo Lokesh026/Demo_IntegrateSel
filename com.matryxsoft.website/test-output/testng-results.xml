@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2019-04-30T12:45:30Z" finished-at="2019-04-30T12:45:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2019-04-30T12:45:30Z" finished-at="2019-04-30T12:45:31Z">
+      <class name="helloWorld.sayHello">
+        <test-method status="PASS" signature="MatryxsoftWebsite()[pri:0, instance:helloWorld.sayHello@ae45eb6]" name="MatryxsoftWebsite" duration-ms="16" started-at="2019-04-30T18:15:31Z" finished-at="2019-04-30T18:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MatryxsoftWebsite -->
+      </class> <!-- helloWorld.sayHello -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
