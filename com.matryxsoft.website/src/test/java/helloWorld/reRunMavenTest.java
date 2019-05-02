@@ -3,9 +3,9 @@ package helloWorld;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import Util.RetryAnalyzer;
+import utility.RetryAnalyzer;
 
-@Test (retryAnalyzer =RetryAnalyzer.class)
+@Test (retryAnalyzer = RetryAnalyzer.class)
 public class reRunMavenTest {
 	
 	  public void MatryxsoftWebsite() 
